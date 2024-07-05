@@ -1,3 +1,4 @@
+<?php
 /*
  * Plugin Name:       Demo Plugin
  * Plugin URI:        https://wppm.io
