@@ -3,7 +3,8 @@
  * Plugin Name:       Demo Plugin
  * Plugin URI:        https://wppm.io
  * Description:       Demo the WPPM private distribution
- * Version:           1.0.0
+ * Version:           4.4
+ * Tested up to:      5.4
  * Requires at least: 5.2
  * Requires PHP:      7.2
  * Author:            Joey Farruggio
