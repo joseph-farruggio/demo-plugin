@@ -15,3 +15,8 @@
  * Text Domain:       my-basics-plugin
  * Domain Path:       /languages
  */
+
+
+<?php
+require __DIR__ . '/wppm-updater.php';
+?>
